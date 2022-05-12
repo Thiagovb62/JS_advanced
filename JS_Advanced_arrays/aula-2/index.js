@@ -16,5 +16,5 @@ const inserindo = nomes.splice(2,0,'J');
 //const removidos = nomes.splice(0,0,'lu');
 
 //push
-//const removidos = nomes.splice(nomes.length,0,1);.
+//const removidos = nomes.splice(nomes.length,0,1);
 console.log(nomes, removidos);
