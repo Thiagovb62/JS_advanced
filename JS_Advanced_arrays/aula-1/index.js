@@ -14,6 +14,6 @@ console.log(nomes);
 
 // tranformando string em array
 const name = "Luiz Otavio Silva";
-const names = name.split(" ");
+const names = name.split(' ');
 // name.join() caso fosse um array para string
 console.log(names);
